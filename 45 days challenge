@@ -1,0 +1,194 @@
+01WEEK 01: Fundamentals of Computers & Basics of Programming
+DAY 01
+
+Fundamentals of Computer Science and Number Systems
+
+Introduction to Computer Science
+Number system(Binary, Hex, Octal,Decimal)
+Integer representation in memory.
+DAY 02 
+
+Character and Media Representations in Memory
+
+Alphabets/ Character representation in memory(ASCII/ Unicode)
+Image representation (Pixel/ RGB).
+Video representation in memory.
+Audio representation in memory.
+DAY 03
+
+ Introduction to Programming and Python Basics
+
+What is a programming language?
+Understanding Compilers and interpretors.
+Introducing Python, and starting with the first program.
+Exploring Python and learning all the syntactical basics.
+02WEEK 02: Python Concepts & Data-structures & Algorithms
+DAY 01
+
+Advanced Python Concepts
+
+I/O manipulation and understanding flow controls.
+Variables, datatypes, conditionals, loops, functions, etc.
+Implementing classes.
+DAY 02
+
+Introduction Data Structures
+
+Introduction
+Arrays
+Strings
+Stacks and Queues
+Linked Lists
+DAY 03
+
+Introduction To Algorithms
+
+Algorithm Basics
+Searching Algorithms
+Sorting Algorithms
+Running Time and Complexity
+03WEEK 03: Computer Architecture, Operating system, Computer Networks & Web Development
+DAY 01
+
+Computer Architecture
+
+Central Processing Unit (CPU)
+Memory (RAM and Storage)
+Input and Output devices
+How CPUs work
+The role of memory in storing data
+Speed vs. storage capacity
+Moore's Law and its impact on technology
+Operating Systems - 1
+
+What is an OS?
+Why do we need them?
+Brief overview of Windows, macOS, and Linux
+DAY 02
+
+Operating Systems - 2
+
+Key OS Functions:
+Managing hardware resources
+User interface and file management
+Computer Network
+
+What is a network?
+Why are networks important?
+Types of Networks:
+Local Area Networks (LANs) vs. Wide Area Networks (WANs)
+The Internet as a global network
+Networking Basics:
+IP addresses and domain names
+The concept of data packets
+DAY 03
+
+Fundamentals of Web Development
+
+Introduction to Web
+Document Object Model (DOM)
+Introduction to HTML
+HTML Tags
+Introduction to CSS
+Styling HTML elements
+Selectors
+04WEEK 04: JavaScript Basics and Comprehensives of React.js
+DAY 01
+
+Introduction to JavaScript and Advanced Styling
+
+Box Model
+Advanced CSS
+Introduction to JavaScript
+Basic structure and syntax rules
+Comments in JavaScript
+Variables and Data Types
+Operators
+Control Flow: Conditional Statements
+Control Flow: Loops
+DAY 02
+
+JavaScript Fundamentals and React.js Basics
+
+Functions
+Objects and Arrays
+Asynchronous JavaScript
+Introduction to React.js
+JSX syntax
+DAY 03
+
+React.js Advanced Concepts
+
+Components and Props
+State Management in React
+React Hooks
+Routing in React
+Advanced State Management in React
+05WEEK 05: Front-end Project, Introduction to Database Management & Data Science
+DAY 01
+
+Front-end Project Development
+
+Front-end Project Development
+DAY 02
+
+Database Management System and SQL
+
+Overview of Database Management-Understanding versatile and non-versatile memory
+Storage systems
+Introducing Databases
+DDL, DML, DQL, DCL, and TCL
+Comparing File system and Databases
+Transactions and ACID properties
+CRUD operations with SQL
+DAY 03
+
+Introduction to Data Science and Analytics 
+
+Possibilities in data science - data analyst, data scientist, data engineer
+Work responsibilities of each role
+Tools and technology used in data science
+Offerings from industries for each individual
+06WEEK 06: Data Analysis, Machine Learning Fundamentals & Intro to Data Engineering
+DAY 01
+
+ Data Analysis, Visualization, and Machine Learning Fundamentals
+
+Tools and tech such as power bi , sql , excel
+Case study and projecte of Data Visualization
+Machine Learning Fundamentals 
+Introduction to Machine Learning
+Data Analytics Tools 
+Real-world Applications and Case Studies 
+Data Science and Analytics in Industry
+Case Studies from Various Fields (e.g., Healthcare, Finance, Marketing)
+Ethical Considerations in Data Science
+DAY 02
+
+Introduction to Data Engineering and Data Science Tools
+
+Introduction to Data Engineering
+Tools and Technologies Used in Data Engineering
+Introduction to Data Scientist
+Tools and Technologies Used in Data Science
+Advancements in AI and Future Possibilities
+Advancements in AI
+Future Possibilities for You and AI
+DAY 03
+
+ Software Development Lifecycle (SDLC) and DevOps
+
+SDLC in detail
+Agile Model And How It Improved the SDLC
+DevOps Diagramme and its Significance.
+How it became the Industry pattern.
+Explaining the DevOps lifecycle 
+Explain its Significance at each 
+Level of the lifecycle. 
+Cloud Computing Overview
+
+What is Cloud & how it came into existence?
+What was Used Pre-Cloud
+Advantages & Disadvantages of Cloud 
+Why everybody started moving to cloud
+Options available for Cloud
